@@ -1,27 +1,17 @@
-## Laravel PHP Framework
+# Project 3 - Best Friend's Developers 
 
-[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
-[![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
+Best Friend's Development is a great tool create to  help others developers and generate random code to be use in other applications.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, queueing, and caching.
 
-Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
+## Lorem Ipsum Generator
 
-## Official Documentation
+Create Lorem Ipsum content (words, sentences, Paragraphs and list). The system use a package [badcow/lorem-ipsum] (https://packagist.org/packages/badcow/lorem-ipsum)
 
-Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
+## Random User Generator 
 
-## Contributing
+Create random users (First name, Last Name, email, Date of Birth, etc) and pictures. The system use the [API Randomuser.me] (https://randomuser.me/) 
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
+## Password Generator
 
-## Security Vulnerabilities
+Create passwords using the [xkcd Password Style] (http://xkcd.com/936/) 
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
-
-### License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
