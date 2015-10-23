@@ -1,6 +1,6 @@
-# Project 3 - Best Friend's Developers 
+# Project 3 - Developer's Best Friend
 
-Best Friend's Development is a great tool create to  help others developers and generate random code to be use in other applications.
+[Developer's Best Friend] (http://www.screencast.com/t/Kh57YtLlyOfW)  is a great tool designed to  help others developers and generate random code to be use in other applications.
 
 
 ## Lorem Ipsum Generator
